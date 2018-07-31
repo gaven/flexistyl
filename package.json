@@ -1,0 +1,22 @@
+{
+  "name": "flexistyl",
+  "version": "1.0.0",
+  "description": "A stylus layout library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaven/flexistyl.git"
+  },
+  "keywords": [
+    "stylus"
+  ],
+  "author": "Gaven Heim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaven/flexistyl/issues"
+  },
+  "homepage": "https://github.com/gaven/flexistyl#readme"
+}
